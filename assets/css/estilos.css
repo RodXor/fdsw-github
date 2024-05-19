@@ -1,11 +1,11 @@
 body {
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway", Verdana, Geneva, Tahoma, sans-serif;
 }
 
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/surdechile.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -24,7 +24,7 @@ body {
 
 #Contacto form label {
   font-weight: 700;
-  color: #373a3c;
+  color: #3c3c37;
 }
 
 @media (max-width: 768px) {
